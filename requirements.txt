@@ -38,3 +38,4 @@ fastapi~=0.107.0
 pydantic~=2.5.3
 validators~=0.22.0
 sqlalchemy~=2.0.23
+starlette~=0.28.0

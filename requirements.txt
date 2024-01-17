@@ -33,9 +33,3 @@ tqdm @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_ac7zi
 urllib3 @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_e9usuw__8i/croot/urllib3_1686166332689/work
 webencodings==0.5.1
 zstandard @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_41b3vxtask/croot/zstandard_1677013668452/work
-
-fastapi~=0.107.0
-pydantic~=2.5.3
-validators~=0.22.0
-sqlalchemy~=2.0.23
-starlette~=0.28.0
